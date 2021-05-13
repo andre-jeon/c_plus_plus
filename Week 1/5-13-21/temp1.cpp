@@ -10,7 +10,7 @@ int main() {
 
     cout<<"Please enter two numbers separated by a space:"<<endl;    // C Out and End L
 
-    cin>>num1>>num2    // C in, read num 1 and num 2
+    cin>>num1>>num2;    // C in, read num 1 and num 2
 
     sum = num1 + num2; // reassigning the value sum
 
