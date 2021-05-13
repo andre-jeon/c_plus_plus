@@ -1,0 +1,15 @@
+Process of Executing a Program
+
+CPU(Central Processing Unit) <-> RAM(Random Access Memory)
+
+Secondary Memory(8 bits = byte)
+
+Sequence of execution 
+
+prog.exe
+
+Machine Language = 0s and 1s
+
+High Level Languages = Java, Python, C++, etc...
+
+
